@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO406: Microscopic Anatomy"
+course_description: "An exploration of cells and tissues at the microscopic level, using a virtual microscope to view features that cannot be seen with the naked eye. Focuses on special features of various body systems, including the circulatory, renal, skeletal, lymphatic, respiratory, integumentary, endocrine, and reproductive systems."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Organs and Organ Systems** <span id="4"></span> 
 *In this unit, we will examine the microscopic anatomy of the organ
 systems that make up the body. Each system will be introduced with
