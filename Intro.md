@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "BIO406: Microscopic Anatomy"
 -------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_bio406) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 In this course, you will study microscopic anatomy. The study of the
 structure of a cell, tissue, organ, or related feature is known as
 anatomy. Gross anatomy (or macroscopic anatomy) involves examining
