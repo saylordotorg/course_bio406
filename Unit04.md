@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "BIO406: Microscopic Anatomy"
@@ -6,6 +7,10 @@ next: ../Unit05
 previous: ../Unit03
 ---
 **Unit 4: Organs and Organ Systems** <span id="4"></span> 
+=======
+##Unit 4: Organs and Organ Systems
+
+>>>>>>> 0f320e38efe3f7f44fbe9480497cafcc28f76ffe
 *In this unit, we will examine the microscopic anatomy of the organ
 systems that make up the body. Each system will be introduced with
 histological features identified. It is sometimes necessary to
