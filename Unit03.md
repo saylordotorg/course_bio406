@@ -5,7 +5,7 @@ course_description: "An exploration of cells and tissues at the microscopic leve
 next: ../Unit04
 previous: ../Unit02
 ---
-**Unit 3: Tissue** <span id="3"></span> 
+##Unit 3: Tissue
 *In this unit, we will examine the four types of tissue that make up all
 of the organs and organ systems of the body. These include epithelial,
 connective, muscle, and nervous tissue. We will discuss how these
