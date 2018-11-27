@@ -290,7 +290,7 @@ the hair follicle and has both nerve and vascular supply.* 
 **4.5 Lymphatic System** <span id="4.5"></span> 
 -   **Reading: Saylor Foundation’s “Lymphatic System”**
     Link: Saylor Foundation’s [“Lymphatic
-    System](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO406-OC-4.5-Lymphatic-System-FINAL.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2012/05/BIO406-OC-4.5-Lymphatic-System-FINAL.pdf)
+    System](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO406-OC-4.5-Lymphatic-System-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO406-OC-4.5-Lymphatic-System-FINAL.pdf)
     (PDF)  
       
      Instructions: This reading gives a good overview of the anatomy of
